@@ -83,8 +83,8 @@
 				  <version>2.5.1</version>
 				  <configuration>
 				  	<checkModificationExcludes>
-            			<checkModificationExclude>pom.xml</checkModificationExclude>
-        			</checkModificationExcludes>				   
+            					<checkModificationExclude>pom.xml</checkModificationExclude>
+        				</checkModificationExcludes>				   
 				  </configuration>
 			</plugin>
 		</plugins>
