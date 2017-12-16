@@ -84,7 +84,9 @@
 				  <configuration>
 				  	<checkModificationExcludes>
             					<checkModificationExclude>pom.xml</checkModificationExclude>
-        				</checkModificationExcludes>				   
+        				</checkModificationExcludes>
+        				<tagNameFormat>v@{project.version}</tagNameFormat>
+						<autoVersionSubmodules>true</autoVersionSubmodules>			   
 				  </configuration>
 			</plugin>
 		</plugins>
