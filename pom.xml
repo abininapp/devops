@@ -83,6 +83,17 @@
 				  <configuration>
 				  	<checkModificationExcludes>
             					<checkModificationExclude>pom.xml</checkModificationExclude>
+            					<checkModificationExclude>target/classes/application.properties</checkModificationExclude>
+<checkModificationExclude>target/classes/com/example/devops/DevopsApplication.class</checkModificationExclude>
+<checkModificationExclude>target/classes/com/example/devops/ServletInitializer.class</checkModificationExclude>
+<checkModificationExclude>target/classes/com/example/devops/web/WelcomeController.class</checkModificationExclude>
+<checkModificationExclude>target/classes/static/main.css</checkModificationExclude>
+<checkModificationExclude>target/classes/templates/index.html</checkModificationExclude>
+<checkModificationExclude>target/m2e-wtp/web-resources/META-INF/MANIFEST.MF</checkModificationExclude>
+<checkModificationExclude>target/m2e-wtp/web-resources/META-INF/maven/com.example/devops/pom.properties</checkModificationExclude>
+<checkModificationExclude>target/m2e-wtp/web-resources/META-INF/maven/com.example/devops/pom.xml</checkModificationExclude>
+<checkModificationExclude>target/test-classes/com/example/devops/DevopsApplicationTests.class</checkModificationExclude>
+<checkModificationExclude>target/test-classes/com/example/devops/web/WelcomeControllerTest.class</checkModificationExclude>					
         				</checkModificationExcludes>
         				<tagNameFormat>v@{project.version}</tagNameFormat>
 						<autoVersionSubmodules>true</autoVersionSubmodules>			   
