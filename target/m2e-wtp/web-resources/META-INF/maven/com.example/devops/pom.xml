@@ -4,7 +4,7 @@
 
 	<groupId>com.example</groupId>
 	<artifactId>devops</artifactId>
-	<version>0.0.7-SNAPSHOT</version>
+	<version>0.0.12-SNAPSHOT</version>
 	<packaging>war</packaging>
 
 	<name>devops</name>
@@ -82,7 +82,7 @@
 				  <version>2.5.3</version>
 				  <configuration>
 				  	<checkModificationExcludes>
-            					<checkModificationExclude>pom.xml</checkModificationExclude>
+            					 
             					<checkModificationExclude>target/classes/application.properties</checkModificationExclude>
 <checkModificationExclude>target/classes/com/example/devops/DevopsApplication.class</checkModificationExclude>
 <checkModificationExclude>target/classes/com/example/devops/ServletInitializer.class</checkModificationExclude>
