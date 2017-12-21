@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Built-By: abin
 Build-Jdk: 9.0.1
 Implementation-Title: devops
-Implementation-Version: 0.0.14-SNAPSHOT
+Implementation-Version: 0.0.15-SNAPSHOT
 Implementation-Vendor-Id: com.example
 Implementation-Vendor: Pivotal Software, Inc.
 Implementation-URL: http://projects.spring.io/spring-boot/devops/
