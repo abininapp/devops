@@ -124,12 +124,12 @@
 			<checkModificationExclude>target/devops-0.0.1-SNAPSHOT/WEB-INF/lib/spring-expression-4.3.12.RELEASE.jar</checkModificationExclude>
 			<checkModificationExclude>target/devops-0.0.1-SNAPSHOT/WEB-INF/lib/spring-web-4.3.12.RELEASE.jar</checkModificationExclude>
 			<checkModificationExclude>target/devops-0.0.1-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.3.12.RELEASE.jar</checkModificationExclude>
-			<checkModificationExclude>target/devops-0.0.1-SNAPSHOT/WEB-INF/lib/thymeleaf-2.1.5.RELEASE.ja</checkModificationExclude>
+			<checkModificationExclude>target/devops-0.0.1-SNAPSHOT/WEB-INF/lib/thymeleaf-2.1.5.RELEASE.jar</checkModificationExclude>
 			<checkModificationExclude>target/devops-0.0.1-SNAPSHOT/WEB-INF/lib/thymeleaf-layout-dialect-1.4.0.jar</checkModificationExclude>
 			<checkModificationExclude>target/devops-0.0.1-SNAPSHOT/WEB-INF/lib/thymeleaf-spring4-2.1.5.RELEASE.jar</checkModificationExclude>
 			<checkModificationExclude>target/devops-0.0.1-SNAPSHOT/WEB-INF/lib/unbescape-1.1.0.RELEASE.jar</checkModificationExclude>
 			<checkModificationExclude>target/devops-0.0.1-SNAPSHOT/WEB-INF/lib/validation-api-1.1.0.Final.jar</checkModificationExclude>
-			<checkModificationExclude>target/m2e-wtp/web-resources/META-INF/MANIFEST.MF:deleted]</checkModificationExclude>
+			<checkModificationExclude>target/m2e-wtp/web-resources/META-INF/MANIFEST.MF</checkModificationExclude>
 			<checkModificationExclude>target/m2e-wtp/web-resources/META-INF/maven/com.example/devops/pom.properties</checkModificationExclude>
 			<checkModificationExclude>target/m2e-wtp/web-resources/META-INF/maven/com.example/devops/pom.xml</checkModificationExclude>
 			<checkModificationExclude>target/maven-archiver/pom.properties</checkModificationExclude>
