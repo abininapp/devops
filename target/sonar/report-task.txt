@@ -1,0 +1,6 @@
+projectKey=com.example:devops
+serverUrl=http://localhost:9000
+serverVersion=6.7.1.35068
+dashboardUrl=http://localhost:9000/dashboard/index/com.example:devops
+ceTaskId=AWD0B1W8jxIBb_huc3Wp
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWD0B1W8jxIBb_huc3Wp
